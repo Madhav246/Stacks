@@ -1,5 +1,4 @@
 //Stack using Arrays :
-
 import java.util.EmptyStackException;
 
 public class Stack1 {
