@@ -1,5 +1,4 @@
 //Stack using LinkedList :
-
 import java.util.EmptyStackException;
 
 public class Stack {
